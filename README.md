@@ -23,12 +23,12 @@ European Conference on Computer Vision (ECCV), 2020<br>
 ## Usage
 
 ### Installation
-- Clone this repo:
+Clone this repo:
 ```
 git clone https://github.com/hytseng0509/ArtEditing
 cd ArtEditing
 ```
-- Install packages:
+Install packages:
 ```
 conda create --name artediting python=3.6
 conda activate artediting
