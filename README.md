@@ -1,7 +1,7 @@
 <img src='imgs/teaser.png' width="800px">
 
 # Modeling Artistic Workflows for Image Generation and Editing
-[[Project Page]]()[[Paper]](https://arxiv.org/pdf/2007.07238.pdf)[Video](https://youtu.be/7wrImV0jidc)
+[[Project Page]]()[[Paper]](https://arxiv.org/pdf/2007.07238.pdf)[[Video]](https://youtu.be/7wrImV0jidc)
 
 Pytorch implementation for our artwork generation and editing method. The proposed design can 1) model creation workflows for different types of artwork and 2) enable both the image generation and editing at different workflow stages.
 
